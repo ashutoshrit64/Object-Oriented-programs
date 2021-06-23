@@ -1,6 +1,6 @@
 package com.bridgelabz.oops;
 
-public class Rice {
+public class Inventory {
 
 	
 		// TODO Auto-generated method stub
