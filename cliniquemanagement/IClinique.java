@@ -10,5 +10,6 @@ public interface IClinique {
 	String doctorFile = "/home/user/address/jsonfiles/CliniqueManagement/doctor.json";
 	String PatientFiles = "/home/user/address/jsonfiles/CliniqueManagement/patient.json";
 	String appointmentFile = "/home/user/address/jsonfiles/CliniqueManagement/appointment.json";
+	public static void addDocter(List<Doctor> docterList);
 
 }
